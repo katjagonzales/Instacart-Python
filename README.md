@@ -1,2 +1,2 @@
 # Instacart-Python
-Analysis of Instacart data using Python as part of the CareerFoundry Data Analytics program.
+Analysis of sales data for Instacart, a US based online grocery company utilizing Python as part of the CareerFoundry Data Analytics program.
