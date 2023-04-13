@@ -21,3 +21,14 @@ Open source data from Instacart and a customer data set that was created for the
   * Seaborn
   * Matplotlib
   * Scipy
+## Folders
+Here is a short description of the folder contents in the repository:
+
+**01. Project Management**: contains the Project brief
+
+**02. Scripts**: contains all Jupyter Notebook scripts
+
+**03. Visualizations**: contains all visualizations for this project
+
+**04. Sent to client**: contains an Excel report that summarizes the population flow, consistency checks, wrangling steps, column derivations, 
+                        visualizations and recommendations based on the answers to the key questions
