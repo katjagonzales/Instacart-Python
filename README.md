@@ -22,7 +22,7 @@ Open source data from Instacart and a customer data set that was created for the
   * Matplotlib
   * Scipy
 ## Folders
-Here is a short description of the folder contents in the repository:
+Here is a short description of the folder contents in this repository:
 
 **01 Project Management**: contains the Project brief
 
