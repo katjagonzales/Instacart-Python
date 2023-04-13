@@ -28,7 +28,7 @@ Here is a short description of the folder contents in the repository:
 
 **02 Scripts**: contains all Jupyter Notebook scripts
 
-**03 Visualizations**: contains all visualizations for this project
+**03 Visualizations**: contains all visualizations for this project generated in Python
 
 **04 Sent to client**: contains an Excel report that summarizes the population flow, consistency checks, wrangling steps, column derivations, 
                         visualizations and recommendations based on the answers to the key questions
