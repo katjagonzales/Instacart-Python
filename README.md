@@ -12,15 +12,6 @@ Open source data from Instacart and a customer data set that was created for the
 [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 
 [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
-## Tools
-- Excel
-
-- Python using the following libraries:
-  * Pandas
-  * Numpy
-  * Seaborn
-  * Matplotlib
-  * Scipy
 ## Folders
 Here is a short description of the folder contents in this repository:
 
@@ -32,3 +23,12 @@ Here is a short description of the folder contents in this repository:
 
 **04 Sent to client**: contains an Excel report that summarizes the population flow, consistency checks, wrangling steps, column derivations, 
                         visualizations and recommendations based on the answers to the key questions
+## Tools
+- *Excel*
+
+- *Python* using the following libraries:
+  * Pandas
+  * Numpy
+  * Seaborn
+  * Matplotlib
+  * Scipy
