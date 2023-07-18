@@ -27,8 +27,9 @@ Here is a short description of the folder contents in this repository:
 - *Excel*
 
 - *Python* using the following libraries:
-  * Pandas
-  * Numpy
-  * Seaborn
-  * Matplotlib
-  * Scipy
+  * pandas
+  * numpy
+  * os
+  * seaborn
+  * matplotlib
+  * scipy
